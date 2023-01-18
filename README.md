@@ -122,3 +122,7 @@ Execute the program
 
 # OUPUT :
 ![OUTPUT](./images/timetable.png)
+
+# RESULT :
+Thus the timetable is displayed in the webpage.
+
