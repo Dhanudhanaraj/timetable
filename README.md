@@ -120,7 +120,7 @@ Execute the program
 </html>
 ```
 
-# OUPUT :
+# OUTPUT :
 ![OUTPUT](./images/timetable.png)
 
 # NU HTML CHECKER:
