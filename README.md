@@ -123,6 +123,9 @@ Execute the program
 # OUPUT :
 ![OUTPUT](./images/timetable.png)
 
+# NU HTML CHECKER:
+![NU HTML CHECKER](./images/html.png)
+
 # RESULT :
 Thus the timetable is displayed in the webpage.
 
